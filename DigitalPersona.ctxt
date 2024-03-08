@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DigitalPersona
+comment1.params=
+comment1.target=DigitalPersona()
+comment2.params=huella\ ledAzul\ ledRojo\ lector\ errorLectura\ data
+comment2.target=DigitalPersona(java.lang.String,\ boolean,\ boolean,\ boolean,\ boolean,\ java.lang.String)
+comment3.params=
+comment3.target=void\ onHuella()
+comment4.params=
+comment4.target=void\ onMuestra()
+comment5.params=
+comment5.target=void\ outHuella()
+numComments=6
